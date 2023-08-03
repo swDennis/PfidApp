@@ -10,11 +10,11 @@
         <copyright>(c) by shopware AG.</copyright>
         <icon>Resources/config/plugin.png</icon>
         <license>MIT</license>
-        <version>0.0.5</version>
+        <version>0.0.6</version>
     </meta>
 
     <setup>
-        <registrationUrl>http://pfidapp.localhost/public/registration</registrationUrl>
+        <registrationUrl>http://pfidapp.localhost/public/lifecycle/register</registrationUrl>
         <secret>TestSecret</secret>
     </setup>
 
