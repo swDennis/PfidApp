@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/platform/trunk/src/Core/Framework/App/Manifest/Schema/manifest-2.0.xsd">
+    <meta>
+        <name>PfidApp</name>
+        <label>Shopware 5 is dead</label>
+        <label lang="de-DE">Shopware 5 ist tot.</label>
+        <description>This is the first test app</description>
+        <description lang="de-DE">Das ist die erste Test-App</description>
+        <author>shopware AG</author>
+        <copyright>(c) by shopware AG.</copyright>
+        <icon>Resources/config/plugin.png</icon>
+        <license>MIT</license>
+        <version>0.0.5</version>
+    </meta>
+
+    <setup>
+        <registrationUrl>http://pfidapp.localhost/public/registration</registrationUrl>
+        <secret>TestSecret</secret>
+    </setup>
+
+    <permissions>
+        <create>product</create>
+        <update>product</update>
+        <delete>product</delete>
+        <read>product</read>
+    </permissions>
+
+    <webhooks>
+        <webhook name="appActivated" event="app.activated" url="http://pfidapp.localhost/public/app/lifecycle/activate"></webhook>
+
+        <webhook name="appDeactivated" event="app.deactivated" url="http://pfidapp.localhost/public/app/lifecycle/deactivate"></webhook>
+
+        <webhook name="appDeleted" event="app.deleted" url="http://pfidapp.localhost/public/app/lifecycle/delete"></webhook>
+
+        <webhook name="productWritten" event="product.written" url="http://pfidapp.localhost/public/webhook"></webhook>
+    </webhooks>
+
+</manifest>

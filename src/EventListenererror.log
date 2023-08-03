@@ -1,0 +1,40 @@
+\App\Entity\Shop::__set_state(array(
+   'shopId' => 'u38sFKuylhcRhLmg',
+   'shopUrl' => 'http://shopware.localhost',
+   'shopSecret' => 'd511c0c5b55b40c5c6c42a335ec669010a8b2306674a92d7b758cd9b1431872d62c0e9c6805ac2515709fcba9eb47267d76ebdc738449fa5a7b9dd0e8a40f12c',
+   'shopClientId' => 'SWIANW5UZMM2UHL6V1P3BLNXCW',
+   'shopClientSecret' => 'd01QNlByRDRJTVY5ZzFFNjB4VjNqdGdCdkp0dElNTk5MSllwdk0',
+   'shopActive' => false,
+))
+\App\Entity\Shop::__set_state(array(
+   'shopId' => 'u38sFKuylhcRhLmg',
+   'shopUrl' => 'http://shopware.localhost',
+   'shopSecret' => 'd511c0c5b55b40c5c6c42a335ec669010a8b2306674a92d7b758cd9b1431872d62c0e9c6805ac2515709fcba9eb47267d76ebdc738449fa5a7b9dd0e8a40f12c',
+   'shopClientId' => 'SWIANW5UZMM2UHL6V1P3BLNXCW',
+   'shopClientSecret' => 'd01QNlByRDRJTVY5ZzFFNjB4VjNqdGdCdkp0dElNTk5MSllwdk0',
+   'shopActive' => false,
+))
+\App\Entity\Shop::__set_state(array(
+   'shopId' => 'u38sFKuylhcRhLmg',
+   'shopUrl' => 'http://shopware.localhost',
+   'shopSecret' => 'd511c0c5b55b40c5c6c42a335ec669010a8b2306674a92d7b758cd9b1431872d62c0e9c6805ac2515709fcba9eb47267d76ebdc738449fa5a7b9dd0e8a40f12c',
+   'shopClientId' => 'SWIANW5UZMM2UHL6V1P3BLNXCW',
+   'shopClientSecret' => 'd01QNlByRDRJTVY5ZzFFNjB4VjNqdGdCdkp0dElNTk5MSllwdk0',
+   'shopActive' => false,
+))
+\App\Entity\Shop::__set_state(array(
+   'shopId' => 'u38sFKuylhcRhLmg',
+   'shopUrl' => 'http://shopware.localhost',
+   'shopSecret' => 'd511c0c5b55b40c5c6c42a335ec669010a8b2306674a92d7b758cd9b1431872d62c0e9c6805ac2515709fcba9eb47267d76ebdc738449fa5a7b9dd0e8a40f12c',
+   'shopClientId' => 'SWIANW5UZMM2UHL6V1P3BLNXCW',
+   'shopClientSecret' => 'd01QNlByRDRJTVY5ZzFFNjB4VjNqdGdCdkp0dElNTk5MSllwdk0',
+   'shopActive' => false,
+))
+\App\Entity\Shop::__set_state(array(
+   'shopId' => 'u38sFKuylhcRhLmg',
+   'shopUrl' => 'http://shopware.localhost',
+   'shopSecret' => 'd511c0c5b55b40c5c6c42a335ec669010a8b2306674a92d7b758cd9b1431872d62c0e9c6805ac2515709fcba9eb47267d76ebdc738449fa5a7b9dd0e8a40f12c',
+   'shopClientId' => 'SWIANW5UZMM2UHL6V1P3BLNXCW',
+   'shopClientSecret' => 'd01QNlByRDRJTVY5ZzFFNjB4VjNqdGdCdkp0dElNTk5MSllwdk0',
+   'shopActive' => false,
+))

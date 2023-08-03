@@ -1,0 +1,1 @@
+shopware-cli project extension upload release --activate --increase-version

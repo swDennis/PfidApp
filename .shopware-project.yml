@@ -1,0 +1,4 @@
+url: http://shopware.localhost/public
+admin_api:
+    username: admin
+    password: shopware
